@@ -31,4 +31,6 @@
     
 4. Any unresolved questions raised by the data collected:
     Nope
+    
+![](https://github.com/ted0697/Week-9-Project-Honeypot/blob/master/honeypot.gif?raw=true)
 
