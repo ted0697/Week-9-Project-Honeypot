@@ -1,0 +1,9 @@
+2018-11-29T19:30:45.230+0000 Assertion: 13524:out of memory AlignedBuilder
+2018-11-29T19:30:45.884+0000 0x12027c1 0x11a3579 0x11882d6 0x118588c 0x1185b20 0xa561ad 0x165f536 
+ mongoexport(_ZN5mongo15printStackTraceERSo+0x21) [0x12027c1]
+ mongoexport(_ZN5mongo10logContextEPKc+0x159) [0x11a3579]
+ mongoexport(_ZN5mongo11msgassertedEiPKc+0xe6) [0x11882d6]
+ mongoexport() [0x118588c]
+ mongoexport(_ZN5mongo14AlignedBuilderC1Ej+0x10) [0x1185b20]
+ mongoexport() [0xa561ad]
+ mongoexport() [0x165f536]
